@@ -16,3 +16,5 @@ plt.xticks(tick_val, tick_lab)
 
 # After customizing, display the plot
 plt.show()
+import pandas as pd
+df = pd.read_csv
